@@ -1,0 +1,1 @@
+SELECT * FROM soft_uni.v_employees_salaries;
